@@ -1,0 +1,13 @@
+package com.xyy.git;
+
+/**
+ * @author youyuan
+ * @Description TODO
+ * @date 2022/4/23 - 20:33
+ */
+public class GitTest {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
